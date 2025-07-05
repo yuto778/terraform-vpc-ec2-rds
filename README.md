@@ -1,4 +1,5 @@
-terraformでVPC,EC2,RDSを構築します
+# terraform で VPC,EC2,RDS を構築します
 
-terraformのバージョン
+## terraform のバージョン
+
 v1.12.1

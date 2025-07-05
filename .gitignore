@@ -1,0 +1,11 @@
+.docs/
+.archtect
+.terraform
+
+
+.pre-commit*
+.tflint*
+.terraform*
+terraform.tfstate.d/*
+
+.zip.zip
