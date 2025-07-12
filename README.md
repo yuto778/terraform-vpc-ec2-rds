@@ -18,7 +18,7 @@ VPC、サブネット、ALB、Auto Scaling Group による EC2、Multi-AZ 構成
 - 高可用性: RDS は Multi-AZ 構成とし、データベースの可用性を高めています。
 
 より一般的なセキュリティベストプラクティスに準拠した構成（EC2 をプライベートサブネットに配置し、NAT
-Gateway を利用する構成）については、./.archtect/archtech(BestPractice).png を参照してください。
+Gateway を利用する構成）については、[こちら](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3930601/39c3f685-697b-4e5a-a5e2-7a66375f04a8.png) を参照してください。
 
 ## 主な技術要素と設計思想
 
