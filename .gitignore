@@ -1,6 +1,6 @@
 .docs/
 .archtect
-.terraform
+.terraform/
 
 
 .pre-commit*
@@ -8,4 +8,14 @@
 .terraform*
 terraform.tfstate.d/*
 
+*.tfstate
+*.tfstate.backup
+
 .zip.zip
+
+envs/dev.tfvars
+envs/prod.tfvars
+
+/bootstrap/remote-state.tf
+/bootstrap/terraform.tfstate
+/bootstrap/terraform.tfstate.backup
