@@ -19,3 +19,5 @@ envs/prod.tfvars
 /bootstrap/remote-state.tf
 /bootstrap/terraform.tfstate
 /bootstrap/terraform.tfstate.backup
+
+template.sh
